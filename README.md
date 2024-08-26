@@ -1,7 +1,7 @@
 ## Malvin-v3
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
+<img src=""/> 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____MALVIN+v3_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+KING+MALVIN;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
 </p>
@@ -50,7 +50,7 @@ h1>
 
 ### before executing these commands in termux... extract the bot file in ur internal storage.
 
-```
+``
 ```
 apt update
 ```
@@ -100,6 +100,7 @@ yarn install
 npm start
 ```
 
+
 `Please Malvin-v3 BUG BOT is for scammers only. Don't use it to harm innocent people`
 
 
@@ -135,7 +136,7 @@ Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and
 
 2. **FOLLOW OUR WHATSAPP CHANNEL**
 
-- <a href=https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z" target="_blank">
+- <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z" target="_blank">
     <img alt="CLICK HERE " src="https://img.shields.io/badge/ FOLLOW NOW  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
