@@ -1,13 +1,9 @@
-/*
- * 𝙊𝙬𝙚𝙣𝙨𝘿𝙚𝙫
- * 𝘵𝘦𝘭𝘦: https://t.me/owenssw
- * 𝘪𝘯𝘧𝘰: https://s.id/26AYH
- * 𝘺𝘵: https://youtube.com/CekGem
- * 𝙶𝚛𝚘𝚞𝚙: https://chat.whatsapp.com/LQBLGAalERjE1P5X3REnGC
-
- * 🚨Di Larang Menghapus Wm Ini🚨
- * #𝗛𝗮𝗿𝗴𝗮𝗶𝗹𝗮𝗵 𝗣𝗲𝗺𝗯𝘂𝗮𝘁  
-*/
+//base by OWENS x Malvin
+//YouTube: @@MalvinKing_TECH
+//Instagram: malvinking20
+//Telegram: t.me/malvinking2
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@MalvinKing_Tech
+//WhatsApp: https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 
 function _0x552e() {
     const _0x289e4f = ['Restarting Bot...', '432460fPiMmV', '1779633fzuCBk', '27WfRfap', 'ipc', 'path', 'argv', 'child_process', '3610160uNAcbC', '584801rNkbIS', '12XXCaRq', '16HYYcKk', 'log', '463xrauFC', '42RwUaik', '7760580LfIAfi', '1336654NsUeuB', 'servers/index.js', 'Exited with code:', 'reset', 'inherit', 'kill', 'message', 'slice', '1256BiSwAE', 'exit'];
