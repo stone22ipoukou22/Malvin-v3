@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // ganti info bot dibawah ini
-global.botName = "𝐌𝐚𝐥𝐯𝐢𝐧-𝐯𝟑"
-global.ownerName = "╚»★𝗞𝗜𝗡𝗡𝗚-𝗠𝗔𝗟𝗩𝗜𝗡★«╝"
-global.botNumber = "263780934873"
-global.devNumber = ["263780934873"]
+global.botName = "dark joker"
+global.ownerName = "dark joker"
+global.botNumber = "242066328691"
+global.devNumber = ["242066328691"]
 
 global.Auto_Typing = true // auto typing
-global.Auto_Recording = false // auto recording
+global.Auto_Recording = true // auto recording
 global.Auto_ReadPesan = false // auto read messages
 global.Type_Menu = "v1" // TypeMenu v1:IMAGE v2:TEXT V3:TEXT+QSTATUS
 
